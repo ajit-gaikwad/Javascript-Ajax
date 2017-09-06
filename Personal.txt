@@ -7,3 +7,4 @@ Qualification:MCA
 Job:Medicodesk
 Location:Hyderabad
 Github Fork:AjitPGaikwad
+Marital Status:Single
